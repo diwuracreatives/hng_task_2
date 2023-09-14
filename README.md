@@ -5,3 +5,4 @@ A simple REST API capable of performing CRUD operations
 * Update an existing resource
 * Delete an existing resource
 STACK - PYTHON(FLASK) AND SQLALCHEMY.
+✨✨🔍🔍VIEW PROJECT DEMO HERE - http://boluwatife.pythonanywhere.com/api
